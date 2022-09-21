@@ -2,3 +2,6 @@
 # Actividades_Aprendizaje-A01066428-ErickHCerecedo
 Erick de Jesus Hernandez Cerecedo
 A01066428
+
+progreso de curso
+![Progreso modulos](evidencia.png "Progreso modulos 1, 2 y 3")
