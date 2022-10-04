@@ -7,4 +7,4 @@ A01066428
 ![Progreso modulos](evidencia.png "Progreso modulos 1, 2, 3 y 4")
 
 ### Certificado del curso "Certificado IBM PY0101EN | Cognitive Class.pdf"
-![Ver certificado](https://github.com/PosgradoMNA/actividades-de-aprendizaje-A01066428-ErickHCerecedo/blob/main/Certificado%20IBM%20PY0101EN%20%7C%20Cognitive%20Class.pdf)
+[Ver certificado del curso](https://github.com/PosgradoMNA/actividades-de-aprendizaje-A01066428-ErickHCerecedo/blob/main/Certificado%20IBM%20PY0101EN%20%7C%20Cognitive%20Class.pdf)
