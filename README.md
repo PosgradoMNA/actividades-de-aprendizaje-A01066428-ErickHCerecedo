@@ -3,5 +3,8 @@
 Erick de Jesus Hernandez Cerecedo
 A01066428
 
-progreso de curso
+### progreso de curso
 ![Progreso modulos](evidencia.png "Progreso modulos 1, 2, 3 y 4")
+
+### Certificado del curso "Certificado IBM PY0101EN | Cognitive Class.pdf"
+![Ver certificado](https://github.com/PosgradoMNA/actividades-de-aprendizaje-A01066428-ErickHCerecedo/blob/main/Certificado%20IBM%20PY0101EN%20%7C%20Cognitive%20Class.pdf)
