@@ -19,6 +19,9 @@ Matricula: **A01066428**
 - Notebook [Selección y limpieza de los Datos enPython](Selección-y-limpieza-de-los-Datos-en-Python/avance-3.ipynb)
 - PDF [Selección y limpieza de los Datos enPython](Selección-y-limpieza-de-los-Datos-en-Python/avance-3.pdf)
 
+##### 3. Actividades Data Analysis With Python (IBM) [Ver](actividades-data-analysis-with-python-IBM)
+- Notebook del [Modulo 1](actividades-data-analysis-with-python-IBM/Modulo_1.ipynb)
+
 
 
 
