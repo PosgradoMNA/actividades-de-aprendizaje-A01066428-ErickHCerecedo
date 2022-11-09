@@ -22,6 +22,9 @@ Matricula: **A01066428**
 ##### 3. Actividades Data Analysis With Python (IBM) [Ver](actividades-data-analysis-with-python-IBM)
 - Notebook del [Modulo 1](actividades-data-analysis-with-python-IBM/Modulo_1.ipynb)
 - Notebook del [Modulo 2](actividades-data-analysis-with-python-IBM/Modulo_2.ipynb)
+- Notebook del [Modulo 3](actividades-data-analysis-with-python-IBM/Modulo_3.ipynb)
+- Notebook del [Modulo 4](actividades-data-analysis-with-python-IBM/Modulo_4.ipynb)
+- Notebook del [Modulo 5](actividades-data-analysis-with-python-IBM/Modulo_5.ipynb)
 
 
 
